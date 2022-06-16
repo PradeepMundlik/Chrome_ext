@@ -1,0 +1,35 @@
+body {
+    width: 1500px;
+    height: 400px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
+h3{
+    display: flexbox;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
+h4{
+    display: flexbox;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
